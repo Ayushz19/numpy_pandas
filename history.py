@@ -256,3 +256,6 @@ result_df
 runfile('C:/Users/Ayushz19/.spyder-py3/pandas.py', wdir='C:/Users/Ayushz19/.spyder-py3')
 result.csv
 results.csv
+runfile('C:/Users/Ayushz19/.spyder-py3/pandas.py', wdir='C:/Users/Ayushz19/.spyder-py3')
+result_df
+runfile('C:/Users/Ayushz19/.spyder-py3/pandas.py', wdir='C:/Users/Ayushz19/.spyder-py3')

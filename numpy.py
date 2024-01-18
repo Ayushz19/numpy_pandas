@@ -1,4 +1,4 @@
-# import urllib.request
+import urllib.request
 # import numpy as np
 # kanto = np.array([73, 12, 34])
 # weights = np.array([.1, .3, .6])

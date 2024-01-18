@@ -152,3 +152,13 @@ result_df = merged_df[['date',
 #  Saving to a csv file
 
 result_df.to_csv('results.csv', index=None)
+
+# result_df.new_cases.plot()
+
+# covid_df.new_tests.plot()
+
+
+result_df.set_index('date', inplace=True)
+
+result_df.new_cases.plot()
+result_df.new_deaths.plot()
